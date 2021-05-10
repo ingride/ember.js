@@ -37,7 +37,7 @@
     "ember-cli-version-checker": "^1.1.7",
     "jquery": "^3.1.1",
     "resolve": "^1.1.7",
-    "rsvp": "^3.3.3",
+    "rsvp": "^3.6.2",
     "simple-dom": "^0.3.0"
   },
   "devDependencies": {
