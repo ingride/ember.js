@@ -27,7 +27,7 @@
     "test:testem": "testem -f testem.dist.json"
   },
   "dependencies": {
-    "broccoli-stew": "^1.2.0",
+    "broccoli-stew": "^1.6.0",
     "ember-cli-get-component-path-option": "^1.0.0",
     "ember-cli-normalize-entity-name": "^1.0.0",
     "ember-cli-path-utils": "^1.0.0",
